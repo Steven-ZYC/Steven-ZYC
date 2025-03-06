@@ -68,4 +68,4 @@
 - 💼 LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/yancheng-zhang-170881335/)]
 - 🔗 Portfolio: [Pending]()
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Steven-ZYC&show_icons=true&theme=radical])
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steven-ZYC&show_icons=true&theme=radical)
