@@ -60,13 +60,13 @@
 
 **Top Scholars Development Program**  
 - Spearheaded edtech solutions in cross-disciplinary team environment
-- Awarded leadership development certification from EdUHK
+- Top scholarship development certification from EdUHK
 
 ---
 
 ## 📫 Let's Connect
 - 📧 Email: [s1153766@s.eduhk.hk](mailto:s1153766@s.eduhk.hk)
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🔗 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 💼 LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/yancheng-zhang-170881335/)]
+- 🔗 Portfolio: [Pending]()
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
