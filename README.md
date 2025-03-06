@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there 👋
 
 
 # I'm Yancheng Zhang 👨💻
@@ -69,4 +68,4 @@
 - 💼 LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/yancheng-zhang-170881335/)]
 - 🔗 Portfolio: [Pending]()
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Steven-ZYC&show_icons=true&theme=radical))
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Steven-ZYC&show_icons=true&theme=radical])
