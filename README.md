@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 
-**Steven-ZYC/Steven-ZYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-# Yancheng Zhang 👨💻
+# I'm Yancheng Zhang 👨💻
 
 📧 `s1153766@s.eduhk.hk` | 📍 Hong Kong | EdUHK
 
