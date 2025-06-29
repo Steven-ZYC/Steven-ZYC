@@ -23,10 +23,10 @@
 *Sep 2024*  
 **Robocon 2025 Competition Preparation**  
 `ROS2 (Humble)` `Raspberry Pi` `Linux` `Bash` `Git`  
-- Boosted system performance by 20% through ROS2-based control system optimization
-- Automated deployment workflows with Bash scripting (30% time reduction)
-- Implemented multi-sensor fusion using Linux CLI tools
-- Led subsystem integration troubleshooting team
+- Engineered robotics control systems for Robocon 2025 using ROS2 (Humble) on Raspberry Pi.
+- Automated workflows with Bash scripting.
+- Collaborated with cross-functional teams to resolve system integration issues, ensuring seamless subsystem communication.
+- Utilized Git for version control, streamlining team collaboration and accelerating development.
 
 ### Full-Stack Developer | Personal Website Project
 *Oct 2024 - Nov 2024*  
