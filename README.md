@@ -50,7 +50,7 @@
 
 ### Systems & Tools
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
-![ROS2]((https://img.shields.io/badge/ROS2-Foxy-blue))
+![ROS2](https://img.shields.io/badge/ROS2-Foxy-blue)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
