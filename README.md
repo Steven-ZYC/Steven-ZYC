@@ -30,9 +30,7 @@
 
 ### Full-Stack Developer | Personal Website Project
 *Oct 2024 - Nov 2024*  
-`React` `JavaScript` `HTML5` `CSS3`  
-- Built responsive portfolio website with 90% Lighthouse performance score
-- Implemented dynamic project showcase with React components
+`Vue` `JavaScript` `HTML5` `CSS3`  
 
 ---
 
