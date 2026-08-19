@@ -17,23 +17,6 @@
 
 ---
 
-## 💼 Technical Experience
-
-### Robotics System Developer | EDUHK Robotics Team
-*Sep 2024*  
-**Robocon 2025 Competition Preparation**  
-`ROS2 (Humble)` `Raspberry Pi` `Linux` `Bash` `Git`  
-- Engineered robotics control systems for Robocon 2025 using ROS2 (Humble) on Raspberry Pi.
-- Automated workflows with Bash scripting.
-- Collaborated with cross-functional teams to resolve system integration issues, ensuring seamless subsystem communication.
-- Utilized Git for version control, streamlining team collaboration and accelerating development.
-
-### Full-Stack Developer | Personal Website Project
-*Oct 2024 - Nov 2024*  
-`Vue` `JavaScript` `HTML5` `CSS3`  
-
----
-
 ## 🛠 Technical Arsenal
 
 ### Programming
