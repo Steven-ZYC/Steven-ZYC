@@ -37,9 +37,9 @@
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## AI Tool (Copilot/Or may say my 24/7 slave haha)
+## AI Tool
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF4500?style=flat&logo=probot&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
 ---
 
 ## 📫 Let's Connect
