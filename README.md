@@ -59,14 +59,6 @@
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF4500?style=flat&logo=probot&logoColor=white)
 ---
 
-## 🌟 Leadership & Achievements
-
-**Top Scholars Development Program**  
-- Spearheaded edtech solutions in cross-disciplinary team environment
-- Top scholarship development certification from EdUHK
-
----
-
 ## 📫 Let's Connect
 - 📧 Email: [s1153766@s.eduhk.hk](mailto:s1153766@s.eduhk.hk)
 - 💼 LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/yancheng-zhang-170881335/)]
